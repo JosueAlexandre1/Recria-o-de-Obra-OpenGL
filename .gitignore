@@ -1,0 +1,5 @@
+trabalho_cg.exe
+*.exe
+*.o
+*.obj
+safe/
